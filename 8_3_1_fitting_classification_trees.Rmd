@@ -1,0 +1,17 @@
+---
+title: "Fitting Classification Trees"
+author: "Brian Knaus"
+date: "January 19, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+library(tree)
+
+```
+
